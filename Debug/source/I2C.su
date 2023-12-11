@@ -1,0 +1,6 @@
+../source/I2C.c:58:6:i2c_init	8	static
+../source/I2C.c:87:6:i2c_write_byte	24	static
+../source/I2C.c:104:9:i2c_read_byte	24	static
+../source/I2C.c:134:5:i2c_read_bytes	32	static
+../source/I2C.c:201:5:status_register_ready_check	8	static
+../source/I2C.c:216:6:status_config	24	static

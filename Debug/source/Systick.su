@@ -1,0 +1,5 @@
+C:\Users\MSI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\KL25Z-DMA-DAC-ADC\QMC_588L_MAG\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/Systick.c:17:6:Init_SysTick	8	static
+../source/Systick.c:30:6:SysTick_Handler	8	static
+../source/Systick.c:40:19:get_timer_now	8	static
+../source/Systick.c:45:6:systick_enable	8	static

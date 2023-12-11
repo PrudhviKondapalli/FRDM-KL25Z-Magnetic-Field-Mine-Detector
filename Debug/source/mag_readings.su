@@ -1,0 +1,4 @@
+../source/mag_readings.c:30:6:convert_to_signed	16	static
+../source/mag_readings.c:43:6:mag_read	8	static
+../source/mag_readings.c:72:5:calculate_azimuthal	32	static
+../source/mag_readings.c:80:15:getBearing	40	static

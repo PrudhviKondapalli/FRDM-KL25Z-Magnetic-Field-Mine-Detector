@@ -1,0 +1,3 @@
+../source/tpm.c:27:6:Init_RGB_LED_PWM	8	static
+../source/tpm.c:61:6:Init_speaker_pwm	8	static
+../source/tpm.c:90:6:initLEDs	8	static

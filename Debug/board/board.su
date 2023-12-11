@@ -1,0 +1,2 @@
+C:\Users\MSI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\KL25Z-DMA-DAC-ADC\QMC_588L_MAG\drivers/fsl_clock.h:620:20:CLOCK_SetLpsci0Clock	16	static
+../board/board.c:44:6:BOARD_InitDebugConsole	16	static
